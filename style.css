@@ -362,11 +362,6 @@ a {
   height: 0.2rem;
 }
 
-<<<<<<< HEAD:Project2.css
 .progress-bar2::-webkit-slider-thumb {
   appearance: none;
-=======
-.progress-bar2::-webkit-slider-thumb{
-    appearance: none;
->>>>>>> 170c4c2a1c00e33d017511625d3fccfc1ac20e36:style.css
 }
